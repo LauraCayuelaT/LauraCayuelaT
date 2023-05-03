@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LauraCayuelaT
-- 👀 I’m interested in Customer Success Management
-- 💞️ I’m looking to collaborate on Client Facing roles
+- 👀 I’m interested in software development
+- 💞️ I’m looking to collaborate on Junior Full-Stack roles
 - 📫 How to reach me lauracayuela91@gmail, Celphone: +57 3125828318
 
 <!---
