@@ -3,12 +3,12 @@ Hi there! Welcome to my GitHub, I'm Laura -->
 ### 👩🏼‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Web Development at Henry.\
+🎓 &nbsp;I'm a graduated Web Developmer at Henry.\
 🌱 &nbsp;I'm on track for learning different programming languages like Python, PHP and JAVA.\
 ✍️ &nbsp;In my free time, I train CrossFit and I have a dog.\
 💬 &nbsp;Feel free to reach out to me for job opportunities as Junior Full-Stack Developer.\
 ✉️ &nbsp;You can shoot me an email at lauracayuela91@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1FeZ_BDS9yg4LnWzSLNy0xztcXqt_OXXs/view?usp=sharing" target="_blank">RESUME</a> for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1y1nER8_vwQBy1F4e50KrjDwSwzNqPv1b/view?usp=drive_link">RESUME</a> for more details about me. I'm open to feedback and suggestions!
 
 
 ### 🛠 &nbsp;Tech Stack
