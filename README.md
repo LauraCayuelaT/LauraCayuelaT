@@ -3,7 +3,7 @@ Hi there! Welcome to my GitHub, I'm Laura -->
 ### 👩🏼‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm a graduated Web Developmer at Henry.\
+🎓 &nbsp;I'm a graduated Web Developer at Henry.\
 🌱 &nbsp;I'm on track for learning different programming languages like Python, PHP and JAVA.\
 ✍️ &nbsp;In my free time, I train CrossFit and I have a dog.\
 💬 &nbsp;Feel free to reach out to me for job opportunities as Junior Full-Stack Developer.\
