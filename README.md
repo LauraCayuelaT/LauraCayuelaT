@@ -1,32 +1,67 @@
-Hi there! Welcome to my GitHub, I'm Laura -->
+# Hi there! 👋 I'm Laura Cayuela
 
-### 👩🏼‍💻 &nbsp;About Me
+## 👩🏼‍💻 About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm a graduated Web Developer at Henry.\
-🌱 &nbsp;I'm on track for learning different programming languages like Python, PHP and JAVA.\
-✍️ &nbsp;In my free time, I train CrossFit and I have a dog.\
-💬 &nbsp;Feel free to reach out to me for job opportunities as Junior Full-Stack Developer.\
-✉️ &nbsp;You can shoot me an email at lauracayuela91@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1y1nER8_vwQBy1F4e50KrjDwSwzNqPv1b/view?usp=drive_link">RESUME</a> for more details about me. I'm open to feedback and suggestions!
+💻 Full Stack Developer with 2+ years of professional experience building modern web applications using React, Next.js, TypeScript and Node.js.
 
+🚀 Currently working at IANS Research, where I develop production applications and AI-powered solutions.
 
-### 🛠 &nbsp;Tech Stack
+🤖 Recently built AI features including:
+- Retrieval-Augmented Generation (RAG) search using Azure OpenAI
+- Source citation and hallucination mitigation
+- Content safety guardrails
+- Python automation using Claude AI to transform Word documents into HTML for an enterprise publishing pipeline
 
+🌎 Spanish citizen, currently based in Bogotá, Colombia, open to remote opportunities and relocation across Europe.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+💼 Before transitioning into software engineering, I spent 5+ years at IBM in B2B technology sales, earning the IBM 100% Club award twice for exceeding sales targets. That experience strengthened my communication, problem-solving and collaboration skills.
 
+🌱 Currently expanding my knowledge in Python, cloud technologies and AI application development.
 
-### 🤝🏻 &nbsp;Connect with Me
+💬 I'm currently looking for Mid-Level Full Stack or Front-End opportunities, especially those involving AI-powered products.
 
-<p>
-<a href="https://linkedin.com/in/lauracayuelatovar"><img src="https://img.shields.io/badge/-Laura%20Cayuela%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/lauracayuela"><img src="https://img.shields.io/badge/-@lauracayuela_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+✉️ Reach me at **lauracayuela91@gmail.com**
+
+📄 Check out my <a href="TU_CV">Resume</a>
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](...)
+![Next.js](...)
+![TypeScript](...)
+![JavaScript](...)
+![HTML5](...)
+![CSS3](...)
+![TailwindCSS](...)
+![Redux](...)
+
+### Backend
+![Node.js](...)
+![Express](...)
+![PostgreSQL](...)
+![Sequelize](...)
+![REST API](...)
+
+### AI & Cloud
+![Python](...)
+![Azure OpenAI](...)
+![GitHub Copilot](...)
+
+### Tools
+![Git](...)
+![GitHub](...)
+![VS Code](...)
+![Docker](...)
+
+---
+
+## 🤝 Connect with Me
+
+LinkedIn
+
+GitHub
+
+Email
