@@ -12,8 +12,3 @@ I'm currently working at IANS Research, where I develop enterprise web applicati
 - 🐍 Python automation
 - 🌍 Open to remote opportunities and relocation within Europe
 
-LinkedIn
-
-GitHub
-
-Email
